@@ -19,7 +19,7 @@
 
 ## Website bán sách
 <h5>Mô tả dự án: </h5>
-<p>Ngành công nghiệp sách và xuất bản đóng vai trò quan trọng trong đời sống kinh tế và văn hóa của một quốc gia. Sự phát triển của công nghệ thông tin đã tạo ra nhu cầu áp dụng các công nghệ tin học và liên quan vào quản lý bán sách."<br>
+<p>Ngành công nghiệp sách và xuất bản đóng vai trò quan trọng trong đời sống kinh tế và văn hóa của một quốc gia. Sự phát triển của công nghệ thông tin đã tạo ra nhu cầu áp dụng các công nghệ tin học và liên quan vào quản lý bán sách.<br>
 Vì vậy, chúng tôi đã chọn đề tài 'Xây dựng hệ thống quản lý bán sách' để đáp ứng nhu cầu thực tế trong công việc mua và bán sách. Quản lý sách nhập và bán là một phần không thể thiếu, và việc tin học hoá quản lý sách giúp tăng cường hiệu quả công việc, tiết kiệm thời gian và nâng cao hiệu suất làm việc.
 Việc áp dụng công nghệ thông tin vào quản lý nhà sách không chỉ mang lại lợi ích cho chủ cửa hàng và nhân viên mà còn đáp ứng nhu cầu ngày càng cao của khách hàng trong việc tìm kiếm và mua sách. Điều này giúp tạo ra một môi trường kinh doanh năng động, hiện đại hơn và đáp ứng xu hướng phát triển của xã hội hiện nay.</p>
 
